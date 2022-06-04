@@ -1,0 +1,18 @@
+.login_div1 , .login_div2{
+    background-color: whitesmoke;
+    padding: 30px;
+    float: none;
+    border-radius: 15px;
+}
+
+body{
+    color: aqua;
+    background-color: orangered;
+}
+
+
+
+#player1_name , #player2_name{
+    display: inline-block;
+    margin-left: 3px;
+}
